@@ -10,7 +10,7 @@
 
 
 2. finalmain함수에 대한 설명
-3. 
+
 구동 영상입니다. -> https://youtu.be/T579FU0mn80
 
 ![화면 캡처 2024-11-25 232037](https://github.com/user-attachments/assets/b2294bd1-d917-4fc5-9ad5-402537e5cd23)
